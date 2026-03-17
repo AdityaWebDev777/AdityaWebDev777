@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studying Computer Science at Technocrats, Bhopal (4th Year)<br>💻Solved 370+ DSA problems with 50+ day coding streak<br>🏆Oracle certified in Cloud Professional<br>Full Stack Development – Apna College | 2025 <br>Java Certification – PW Skills<br>Soft Skills : Problem Solving, Team Collaboration, Adaptive Learning
+Studying Computer Science at Technocrats, Bhopal (4th Year)<br>💻Solved 500+ DSA problems with 100+ day coding streak<br>🏆Oracle certified in Cloud Professional<br>Full Stack Development – Apna College | 2025 <br>Java Certification – PW Skills<br>Soft Skills : Problem Solving, Team Collaboration, Adaptive Learning
 
 
 ## 🌐 Socials:
