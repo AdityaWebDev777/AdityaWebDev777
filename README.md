@@ -26,7 +26,7 @@ Studying Computer Science at Technocrats, Bhopal (4th Year)<br>💻Solved 500+ D
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rathoreaditya9593-tech&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<img   src="https://raw.githubusercontent.com/AdityaWebDev777/AdityaWebDev777/f81187491e413ea3b672ee4709fca9ca067ab5e4/Gravitational%20Pull.svg" width="200%"  object-fit: cover >
 
 </div>
 
