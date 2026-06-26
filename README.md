@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/AdityaWebDev777/AdityaWebDev777/182db4a639bd4081c9a47c9afd9a8d6d1aeb1144/AdityaWebDev777-profile-banner.svg" width="100%">
+<img src="https://raw.githubusercontent.com/AdityaWebDev777/AdityaWebDev777/182db4a639bd4081c9a47c9afd9a8d6d1aeb1144/AdityaWebDev777-profile-banner.svg" width="200%">
 # 💫 About Me:
 Studying Computer Science at Technocrats, Bhopal (4th Year)<br>💻Solved 500+ DSA problems with 100+ day coding streak<br>🏆Oracle certified in Cloud Professional<br>Full Stack Development – Apna College | 2025 <br>Java Certification – PW Skills<br>Soft Skills : Problem Solving, Team Collaboration, Adaptive Learning
 
