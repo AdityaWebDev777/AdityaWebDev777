@@ -180,5 +180,15 @@ Studying Computer Science at Technocrats, Bhopal (4th Year)<br>💻Solved 500+ D
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rathoreaditya9593-tech&icon=0&color=0)](https://visitcount.itsvg.in)
+<div data-importer="music" align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div data-importer="music" align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
