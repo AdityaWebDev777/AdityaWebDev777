@@ -1,3 +1,6 @@
+
+<img src="https://raw.githubusercontent.com/AdityaWebDev777/AdityaWebDev777/182db4a639bd4081c9a47c9afd9a8d6d1aeb1144/AdityaWebDev777-profile-banner.svg" width="100%">
+
 <div align="center" id="top">
   <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
 
