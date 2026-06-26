@@ -3,6 +3,7 @@
 # 💫 About Me:
 Studying Computer Science at Technocrats, Bhopal (4th Year)<br>💻Solved 500+ DSA problems with 100+ day coding streak<br>🏆Oracle certified in Cloud Professional<br>Full Stack Development – Apna College | 2025 <br>Java Certification – PW Skills<br>Soft Skills : Problem Solving, Team Collaboration, Adaptive Learning
 
+<img src="https://raw.githubusercontent.com/AdityaWebDev777/AdityaWebDev777/182db4a639bd4081c9a47c9afd9a8d6d1aeb1144/AdityaWebDev777-profile-banner.svg" width="200%">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@smile_adi9617) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aditya-rathore-7546472bb) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rathoreaditya9617) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdityaRath19621) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rathoreaditya9617@gmail.com) 
