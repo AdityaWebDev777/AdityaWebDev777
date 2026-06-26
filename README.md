@@ -31,9 +31,5 @@ Studying Computer Science at Technocrats, Bhopal (4th Year)<br>💻Solved 500+ D
 
 ###
 
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
